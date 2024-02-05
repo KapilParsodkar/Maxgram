@@ -2,6 +2,12 @@ This is a new [**React Native**](https://reactnative.dev) project, bootstrapped 
 
 # Getting Started
 
+MaxGram is a meticulously crafted mobile application, developed using React Native, that replicates the user interface and functionality of the renowned social media platform, Instagram. This innovative app delivers a seamless and responsive user experience by leveraging various navigation components, including tabs, stacks, and drawers. The use of these navigation elements ensures smooth transitions between different sections of the app, enhancing user engagement. MaxGram's frontend design prioritizes both aesthetics and user-friendliness, providing a visually appealing and intuitive interface. By combining the power of React Native with strategic navigation implementation, MaxGram sets a high standard for creating engaging and responsive mobile applications.
+![Screenshot_1707176450](https://github.com/kapilparsodkar/Maxgram/assets/95988187/90a2e656-4547-4086-8da1-1b6afebdfd40)
+![Screenshot_1707176456](https://github.com/kapilparsodkar/Maxgram/assets/95988187/0630d7bd-98fc-4bde-9dce-c6ff11c10828)
+![Screenshot_1707176436](https://github.com/kapilparsodkar/Maxgram/assets/95988187/e56019ff-9146-422b-aded-d59e5c9e1ba8)
+
+
 >**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
 
 ## Step 1: Start the Metro Server
